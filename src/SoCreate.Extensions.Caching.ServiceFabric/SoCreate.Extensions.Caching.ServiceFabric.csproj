@@ -15,6 +15,7 @@
     <Copyright>© SoCreate. All rights reserved.</Copyright>
     <Version>3.1.0</Version>
     <PackageIconUrl>https://raw.githubusercontent.com/SoCreate/service-fabric-distributed-cache/master/assets/icon-64x64.png</PackageIconUrl>
+    <Platforms>AnyCPU;x64</Platforms>
   </PropertyGroup>
 
   <ItemGroup>
